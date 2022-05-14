@@ -5,7 +5,6 @@ Performing NLP tasks on Yelp dataset
 Text Mining for YELP dataset challenge 2015<br />
 The dataset contains 650k training samples and 50k test samples.<br />
 All the required operations have been performed on the dataset before the training like:<br /><br />
-
 **Data Preprocessing** - <br />
     the data picked from csv and duplicates/nans have been removed<br /><br />
 **Data Cleaning** - <br />
