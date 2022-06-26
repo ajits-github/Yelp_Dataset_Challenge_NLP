@@ -3,10 +3,10 @@ Performing NLP tasks on Yelp dataset
 
 **What's in the repo:**<br />
 Text Mining for YELP dataset challenge 2015<br />
-The dataset contains 650k training samples and 50k test samples.<br />
-All the required operations have been performed on the dataset before the training like:<br /><br />
+The dataset contains 650k training samples and 50k test samples. The dataset contains the reviews and ratings (from 1-5) by the customers for different restraurants that customers have visited and had their meals.<br />
+All the required operations have been performed and described in below steps.<br /><br />
 **Data Preprocessing** - <br />
-    the data picked from csv and duplicates/nans have been removed<br /><br />
+    The data picked from csv and duplicates/nans have been removed<br /><br />
 **Data Cleaning** - <br />
     - Removed all whitespaces <br />
     - Removed all punctuations<br />
